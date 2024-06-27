@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eolkinty.github.io/sitemap
+Sitemap: https://eolkinty.github.io/app/sitemap
+Sitemap: https://eolkinty.github.io/assets/sitemap
+Sitemap: https://eolkinty.github.io/css/sitemap
+Sitemap: https://eolkinty.github.io/includes/sitemap
+Sitemap: https://eolkinty.github.io/item/sitemap
+Sitemap: https://eolkinty.github.io/src/sitemap
